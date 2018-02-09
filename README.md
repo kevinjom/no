@@ -1,10 +1,10 @@
 # no
 
-## What does it do
+## What does it do?
 **Nothing**
 
-## Why it
+## Why does it exist?
 **No reason**
 
-## Contribution
-You are **NOT** allowed!
+## Contributing
+**Don't**!
