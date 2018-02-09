@@ -1,10 +1,10 @@
-# no
+# no (aka NO)
 
 ## What does it do?
-**Nothing**
+Nothing
 
 ## Why does it exist?
-**No reason**
+No reason
 
 ## Contributing
-**Don't**!
+Don't!
