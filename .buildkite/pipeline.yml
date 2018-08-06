@@ -1,0 +1,6 @@
+steps:
+  -
+    type: "script"
+    name: ":hammer: test"
+    command: "echo hihihi"
+    branches: "*"
